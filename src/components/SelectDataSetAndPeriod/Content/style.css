@@ -1,0 +1,33 @@
+.box {
+ min-width: 35vmax;
+ text-align: center;
+ margin-left: 10px;
+ margin-right: 10px;
+ float: left;
+}
+
+.selection-card {
+ margin-top: 15px;
+ margin-bottom: 15px;
+ padding-top: 5px;
+ padding-bottom: 5px;
+ padding-left: 15px;
+ padding-right: 15px;
+}
+
+.default-browsing {
+ padding-top: 40px;
+ height: 130px !important;
+ overflow-x: auto;
+}
+
+.interval-browsing {
+ padding-bottom: 15px;
+ height: 294px !important;
+ overflow-y: auto;
+ overflow-x: auto;
+}
+
+.jsx-521922636{
+ text-align: left;
+}

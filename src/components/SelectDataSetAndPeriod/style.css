@@ -1,0 +1,14 @@
+.content {
+    align-content: center;
+ 	justify-content: center;
+    width: 75%;
+    max-width: 75%;
+    margin: 0 auto 0 auto;
+}
+
+@media (max-width: 768px){
+    .content{
+        width: 85%;
+        max-width: 85%;
+    }
+}

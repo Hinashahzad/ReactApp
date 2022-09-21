@@ -1,0 +1,73 @@
+.section {
+  margin-left: 30px;
+  margin-right: 30px;
+  justify-content: center;
+  width: 75%;
+  max-width: 75%;
+  margin: 0 auto 0 auto;
+}
+.displayButtons{
+    display: flex;
+    justify-content: center;
+}
+
+.jsx-842834126 {
+    display: flex;
+    justify-content: center;
+}
+.jsx-3563382569{
+    margin-top: 50px;
+}
+.report {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-height: 600px !important;
+  max-width: 80%;
+  overflow-x: auto;
+  overflow-y: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.pretty-button {
+ margin-top: 15px;
+ margin-bottom: 5px;
+}
+.previous {
+ float: left;
+ margin-right: 15px;
+ margin-top: 15px;
+ margin-bottom: 5px;
+}
+.previous:hover {background-color:0 9px #999;}
+.next:hover {background-color:0 9px #999;}
+.next {
+ float: right;
+ margin-top: 15px;
+ margin-bottom: 5px;
+}
+.alertbar {
+  margin-bottom: 15px;
+  position: top;
+}
+.input {
+    width:110%;
+    height: 40px;  
+}
+
+@media (max-width: 768px){
+	.reportSpan{
+		margin-left: 155px;
+	}
+    .end{
+        justify-content: unset!important;
+    }
+    .section{
+        width: 100%;
+        max-width: 100%;
+        margin: 0;
+    }
+    .jsx-3951482246{
+        min-width: unset!important;
+    }
+}

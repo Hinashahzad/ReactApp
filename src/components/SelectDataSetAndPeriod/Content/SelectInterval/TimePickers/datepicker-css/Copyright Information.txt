@@ -1,0 +1,8 @@
+The files in the folder datepicker-css were not written by us. The were 
+written by HackerOne, and released under the MIT license. These files 
+were placed here because is was the only way to ensure they were 
+accessed correctly by the TimePicker components, which were created by 
+us. The files are used to style our components.
+You can find the documentation for the react-datepicker
+(which is where these files were taken from) here: 
+https://www.npmjs.com/package/react-datepicker
